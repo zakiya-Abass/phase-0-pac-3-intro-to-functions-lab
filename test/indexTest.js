@@ -1,4 +1,4 @@
-require ( './root.js' );
+require('./root.js');
 
 
 describe('shout(string)', function() {
